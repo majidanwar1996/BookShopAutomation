@@ -1,0 +1,14 @@
+Step 1: First Create the account on GitHub
+Step 2: Open The link - git-scm.com
+Step 3: Download for windows
+step 4: Add the location of cmd file ex: C:\Program Files\Git\cmd To environment variables
+step 5: Now open The windows Command prompt (using windows Button + r ) and type cmd followed by enter
+step 6: create repository and copy the link(copy to clipboard)
+step 7: configuring: git clone https://github.com/majidanwar1996/BookShopAutomation.git
+step 8: move to  the workinng folder: cd BookShopAutomation
+step 8: To Add New items : (i)   git add filename or use git add -A
+						   (ii)  git status
+						   (iii) git commit -m "Type message Here" or git commit then Followed by [Esc]+ wq
+						   (iv)  git push
+						   (v)   use git pull to download data from repository
+// Use git Command to see all git commands
